@@ -1,0 +1,16 @@
+{
+  "name": "katas-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "divisible.js",
+  "scripts": {
+    "test": "mocha ./spec/*.spec.js"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.0",
+    "eslint": "^3.19.0"
+  },
+  "author": "Vitor Correa",
+  "license": "ISC"
+}
